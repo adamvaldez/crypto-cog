@@ -5,6 +5,7 @@ Cryptocurrency live prices from Coinmarketcap.com
 - urllib.request
 - json
 
+## Installing
 Use Red's downloader by adding it with:  
 `[p]cog repo add 26-Cogs https://github.com/adamvaldez/crypto-cog`
 
