@@ -4,7 +4,7 @@
 ## Burlero
 ![Burlero](https://planetcryptoid.tech/img/burlero.png)
 
-This cog is designed to work with Burlero (Bur for short), the resident bot at [Planet Cryptoid](https://www.planetcryptoid.tech)'s official [Discord Server](https://discordapp.com/invite/uvfNm2d). To test this cog, we invite you to join and run the supported commands on Bur.
+This cog is designed to work with Burlero (Bur for short), the resident bot at [Planet Cryptoid](https://www.planetcryptoid.tech)'s official [Discord Server](https://discordapp.com/invite/uvfNm2d). To test this cog, we invite you to join and run the supported commands on Bur (Bur uses prefix [bur]).
 
 Command | Description
 ------- | ----------------------------------------- |
@@ -29,6 +29,6 @@ credits | Post Authors credits
 
 ## Installing
 Use Red's downloader by adding it with:  
-`[p]cog repo add crypto-cog https://github.com/adamvaldez/crypto-cog`
+`[p]cog repo add crypto https://github.com/adamvaldez/crypto-cog`
 
 or manually place the files into your red bots cogs directory
