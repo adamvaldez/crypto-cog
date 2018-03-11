@@ -1,5 +1,5 @@
 # crypto-cog
-Cryptocurrency live prices from Coinmarketcap.com
+Cryptocurrency live prices from [Coinmarketcap.com](https://www.coinmarketcap.com) cogs repository for [Red-DiscordBot](https://github.com/Twentysix26/Red-DiscordBot)
 
 ## Dependencies
 - urllib.request
