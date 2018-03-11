@@ -27,6 +27,6 @@ xrp     | What is Ripple's live price
 
 ## Installing
 Use Red's downloader by adding it with:  
-`[p]cog repo add 26-Cogs https://github.com/adamvaldez/crypto-cog`
+`[p]cog repo add crypto-cog https://github.com/adamvaldez/crypto-cog`
 
 or manually place the files into your red bots cogs directory
