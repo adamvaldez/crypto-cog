@@ -8,20 +8,20 @@ This cog is designed to work with Burlero (Bur for short), the resident bot at [
 
 Command | Description
 ------- | ----------------------------------------- |
-bch     | What is Ripple's live price
 btc     | What is Bitcoin's live price
-credits | Post link for f3 Web Design Competition
 eth     | What is Ethereum's live price
-ltc     | What is Ripple's live price
-neo     | What is Ripple's live price
-source  | Post link for f3 Web Design Competition
-top10   | Get top 10 prices from coinmarketcap
-top20   | Get top 20 prices from coinmarketcap
-top5    | Get top 5 prices from coinmarketcap
-vote    | Post link for f3 Web Design Competition
+xrp     | What is Ripple's live price
+bch     | What is Ripple's live price
+ltc     | What is Litecoin's live price
+neo     | What is NEO's live price
 xlm     | What is Ripple's live price
 xrm     | What is Ripple's live price
-xrp     | What is Ripple's live price
+top5    | Get top 5 prices from coinmarketcap
+top10   | Get top 10 prices from coinmarketcap
+top20   | Get top 20 prices from coinmarketcap
+source  | Post link to github source
+vote    | Post link for f3 Web Design Competition
+credits | Post Authors credits
 
 ## Dependencies
 - urllib.request
