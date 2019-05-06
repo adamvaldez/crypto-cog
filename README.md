@@ -13,11 +13,11 @@ Command | Description
 btc     | What is Bitcoin's live price
 eth     | What is Ethereum's live price
 xrp     | What is Ripple's live price
-bch     | What is Ripple's live price
+bch     | What is Bitcoin Cash's live price
 ltc     | What is Litecoin's live price
 neo     | What is NEO's live price
-xlm     | What is Ripple's live price
-xrm     | What is Ripple's live price
+xlm     | What is Stellar's live price
+xrm     | What is Monero's live price
 top5    | Get top 5 prices from coinmarketcap
 top10   | Get top 10 prices from coinmarketcap
 top20   | Get top 20 prices from coinmarketcap
