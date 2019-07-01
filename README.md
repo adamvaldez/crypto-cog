@@ -1,10 +1,10 @@
-![intro](https://planetcryptoid.tech/img/CryptoCog1.png)
+![intro](http://valdez.tech/imageHosting/CryptoCog1.png)
 
 # crypto-cog
 'Cryptocurrency live prices from [Coinmarketcap.com](https://www.coinmarketcap.com)' cogs repository for [Red-DiscordBot](https://github.com/Twentysix26/Red-DiscordBot).
 
 ## Burlero
-![Burlero](https://planetcryptoid.tech/img/burlero.png)
+![Burlero](http://valdez.tech/imageHosting/burlero.png)
 
 This cog is designed to work with Burlero (Bur for short), the resident bot at [Planet Cryptoid](https://www.planetcryptoid.tech)'s official [Discord Server](https://discordapp.com/invite/uvfNm2d). To test this cog, we invite you to join and run the supported commands on Bur (Bur uses prefix [bur]).
 
